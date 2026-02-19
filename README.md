@@ -93,9 +93,10 @@ Customers experiencing poor connectivity are more likely to leave.
 6. Insight Generation
 
 ---
-##AUTHOR
 
- -**NAME**-**NIKHIL POKALKAR**
- -**EMAIL**-**pokalkarnikhil@gmail.com**
+## AUTHIOR
+
+- **NAME**-**NIKHIL POKALKAR**
+- **EMAIL**-**pokalkarnikhil@gmail.com**
 
 
