@@ -98,5 +98,4 @@ Customers experiencing poor connectivity are more likely to leave.
 -**NAME**-**NIKHIL POKALKAR**
 -**EMAIL**-**pokalkarnikhil@gmail.com**
 
-## 👨‍💻 Author
 
